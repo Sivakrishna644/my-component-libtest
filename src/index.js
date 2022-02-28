@@ -5,4 +5,4 @@
 //   return <div className={styles.test}>Example Component: {text}</div>
 // }
 
-export { default as HelloWorld } from './components/HelloWorld'
+export { default as MyComponent } from './components/HelloWorld'
